@@ -4,9 +4,21 @@
 
 # Projeto: Habits
 
-O projeto foi realizado seguindo a Trilha Explorer do canal <a href="youtube.com/hashtag-treinamentos" target="_blank" > Hashtag Treinamento</a>.
+O projeto foi realizado seguindo a Trilha Explorer do canal <a href="https://www.youtube.com/c/rocketseat" target="_blank" > Rocketseat</a>.
 
-O projeto tem como finalidade o aprendizado das ferramentas web.
+O projeto tem como finalidade o aprendizado das ferramentas web. Neste projeto é possivel registrar o que você fez durante o dia, marcando no seu respectivo quadradinho para cada ação.
+
+# 📷 Versão Web
+
+<div align="center" >
+ <img src="https://github.com/EoLima/Projeto_Habits/assets/123023440/a5c11a36-947d-4ddb-8da1-638afdffbd38">
+</div>
+
+# 📷 Versão Mobile
+
+<div align="center" >
+ <img src="https://github.com/EoLima/Projeto_Habits/assets/123023440/a4ddd404-ec68-4e78-ab95-3d735760b6db">
+</div>
 
 ## 🧑🏾‍💻 Ferramentas Utilizadas
 
@@ -15,8 +27,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - ✔️ HTML
 - ✔️ CSS
 - ✔️ JavaScript
-- ✔️ Vite
-- ✔️ NodeJS
+
+## 📂Acesso ao Projeto
+
+Você pode acessar o projeto <a href="https://eolima.github.io/Projeto_Habits/" target="_blank" > aqui</a>.
 
 ### Contate-me
 
